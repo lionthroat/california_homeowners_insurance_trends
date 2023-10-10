@@ -1,5 +1,5 @@
 import streamlit as st
-
+st.write("#")
 st.markdown("###### A California Real Estate Case Study")
 st.title("Burning Money: Why California is Over Homeowner's Insurance")
 st.subheader(":red[With increasingly severe and unpredictable fire seasons, costly claims payouts have insurers spooked]")
